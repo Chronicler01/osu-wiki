@@ -13,7 +13,7 @@ tags:
 
 **Badge-weighted seeding** (***BWS***)은 [토너먼트](/wiki/Tournaments)에서의 [시드배정](https://en.wikipedia.org/wiki/Seed_(sports))과 각 플레이어의 [프로필 배지](/wiki/Community/Profile_badge) 수와 [글로벌 순위](/wiki/Ranking#performance-points-ranking)를 고려하여 제한하는 시스템입니다. 원래 ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)가 설계한 목표는 "플레이어에게 더 정확한 시드 배정과 토너먼트 배지를 기반으로 랭크 제한을 적용하자" 라는 것이었습니다,[^hippo-cup-bws] 플레이어의 국가 랭킹을 직접 사용하는 일반적인 시드 배정과 비교됩니다.
 
-BWS의 원칙은 플레이어가 과거에 토너먼트에 참여하여 배지를 획득한 경우 더 높은 시드에 배정되는 것입니다. 이렇게 하면 비슷한 순위의 다른 플레이어 대비 같은 시드에 무한정 머물수 없게 됩니다.[^digitalhypno-discord-1][^digitalhypno-discord-2] In a set of tournaments that all use BWS, players that start at similar ranks are expected to tend toward BWS seeds that better reflect their likelihood to win matches against similarly seeded players.[^digitalhypno-discord-3][^digitalhypno-discord-4]
+BWS의 원칙은 플레이어가 과거에 토너먼트에 참여하여 배지를 획득한 경우 더 높은 시드에 배정되는 것입니다. 이렇게 하면 비슷한 순위의 다른 플레이어 대비 같은 시드에 무한정 머물수 없게 됩니다.[^digitalhypno-discord-1][^digitalhypno-discord-2] In a set of tournaments that all use BW, players that start at similar ranks are expected to tend toward BWS seeds that better reflect their likelihood to win matches against similarly seeded players.[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
 BWS was first used at the end of 2018 for [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153). Since then, it has been used in many [community tournaments](/wiki/Tournaments#community), and stands as one of the main seeding methods currently in use, alongside global ranks and qualifier rounds.
 
