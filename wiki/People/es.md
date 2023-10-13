@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
----
-
 # Personas
 
 Página de índice para artículos sobre personas o grupos.
@@ -13,8 +7,11 @@ Página de índice para artículos sobre personas o grupos.
 - [Equipo de soporte de cuentas](Account_support_team)
 - [Beatmap Nominators](Beatmap_Nominators)
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
+- [Centuriones](Centurions)
 - [Contribuidores de la comunidad](Community_Contributors)
+- [Completacionistas](Completionists)
 - [Desarrolladores](Developers)
+- [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
