@@ -8,7 +8,7 @@ tags:
 
 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (BN), [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) (GMT), [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) (NAT)에 제출된 콘텐츠의 검토를 위해 아래의 설명된 대로 특별 투표 과정을 거칩니다.
 
-## Process
+## 과정
 
 1. 매퍼, 모더 또는 관련 구성원은 [BN 웹사이트](https://bn.mappersguild.com/reports)를 통해 보고하며, [시각적 컨텐츠 고려 사항](/wiki/Rules/Visual_content_considerations)에 따라 검토할 비트맵의 시각적인 요소를 제기합니다.
 2. 보고서는 NAT가 평가하며, 모든 BN, GMT, NAT가 투표할 수 있으며, 가장 명백한 상황을 제외하고 모든 상황에 대한 새로운 "콘텐츠 사례"를 실시간으로 생성하여 가능한 한 빠른 투표가 가능합니다. 
